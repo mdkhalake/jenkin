@@ -1,4 +1,1 @@
-print("Hello")
-print("jekkin")
-print("Hello")
-print("jekkin")
+print("This is an example to test")
